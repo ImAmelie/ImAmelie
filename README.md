@@ -1,4 +1,4 @@
-### Amelie 的 Github
+### Amelie's Github
 
 Hi, I'm Amelie, from China.
 
