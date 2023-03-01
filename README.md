@@ -10,4 +10,4 @@ Hi, I'm Amelie, from China.
 
 I love programming.
 
-<img src="http://profile-counter.glitch.me/ImAmelie/count.svg" alt="访问量" style="display:none;" />
+![Visitor Count](http://profile-counter.glitch.me/ImAmelie/count.svg)
