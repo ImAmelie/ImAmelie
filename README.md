@@ -10,6 +10,10 @@ I love programming.
 
 ![Contributions](http://github-readme-streak-stats.herokuapp.com/?user=ImAmelie&theme=gruvbox&locale=zh_Hans)
 
+<!--
+
 ### Visitors Count
 
 ![Visitors Count](http://profile-counter.glitch.me/ImAmelie/count.svg)
+
+-->
