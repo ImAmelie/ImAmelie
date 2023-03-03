@@ -1,6 +1,6 @@
 <div align="center">
 
-## Amelie's Github
+# Amelie's Github
 
 Hi, I'm Amelie, from China.
 
